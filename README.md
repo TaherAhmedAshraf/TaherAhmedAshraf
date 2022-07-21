@@ -11,12 +11,12 @@
 - 💬 Ask me about react
 - 📫 Email taheirahmedashraf@gmail.com
 - ⚡ Fun fact I love to code and sing!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taheirahmedashraf&label=Profile%20views&color=E4405F&style=flat" alt="taheirahmedashraf" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=taherahmedashraf&label=Profile%20views&color=E4405F&style=flat" alt="taherahmedashraf" /> </p>
 ## Connect with Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/taheir.ashraf/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/taheirashraf/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TaheirAhmedAshraf)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TaherAhmedAshraf)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taherahmedashraf/)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taheirahmedashraf@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/531646946817998852)
@@ -61,7 +61,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TaheirAhmedAshraf&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="Ashraf" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TaherAhmedAshraf&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="Ashraf" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TaheirAhmedAshraf&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="Ashraf" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TaherAhmedAshraf&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="Ashraf" /></p>
 
