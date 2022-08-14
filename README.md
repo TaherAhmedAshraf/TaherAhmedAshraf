@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning C 
 - 💬 Ask me about react
 - 📫 Email taheirahmedashraf@gmail.com
-- ⚡ Fun fact I love to code and sing!
+- ⚡ Fun fact I love to code!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taherahmedashraf&label=Profile%20views&color=E4405F&style=flat" alt="taherahmedashraf" /> </p>
 ## Connect with Me
 
