@@ -7,7 +7,7 @@
 ## Junior MERN Developer 😍😍
 
 - 🔭 Admin In Command Programming Hero
-- 🌱 I’m currently learning C 
+- 🌱 I’m currently learning Python
 - 💬 Ask me about react
 - 📫 Email taheirahmedashraf@gmail.com
 - ⚡ Fun fact I love to code!
