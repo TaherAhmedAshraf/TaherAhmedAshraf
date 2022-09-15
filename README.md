@@ -4,12 +4,12 @@
 
 ###
 
-## Junior MERN Developer 😍😍
+## MERN Stack Developer 😍😍
 
 - 🔭 Admin In Command Programming Hero
 - 🌱 I’m currently learning Python
 - 💬 Ask me about react
-- 📫 Email taheirahmedashraf@gmail.com
+- 📫 Email contact@taherahmedashraf.com
 - ⚡ Fun fact I love to code!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taherahmedashraf&label=Profile%20views&color=E4405F&style=flat" alt="taherahmedashraf" /> </p>
 ## Connect with Me
