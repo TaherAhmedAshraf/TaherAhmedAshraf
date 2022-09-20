@@ -11,8 +11,8 @@
 - 💬 Ask me about react
 - 📫 Email contact@taherahmedashraf.com
 - ⚡ Fun fact I love to code!
-<p align="middle"> <img src="https://komarev.com/ghpvc/?username=taherahmedashraf&label=Profile%20views&color=E4405F&style=flat" alt="taherahmedashraf" /> </p>
-<p align="middle"> <img src="https://www.codewars.com/users/Ashraf9053/badges/small" alt="taherahmedashraf" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=taherahmedashraf&label=Profile%20views&color=E4405F&style=flat" alt="taherahmedashraf" /> </p>
+<p align="left"> <img src="https://www.codewars.com/users/Ashraf9053/badges/small" alt="taherahmedashraf" /> </p>
 ## Connect with Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/taheir.ashraf/)
@@ -62,7 +62,12 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-<p align="middle">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=TaherAhmedAshraf&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="Ashraf" /></p>
+<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=TaherAhmedAshraf&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="Ashraf" /></p>
 
-<p align="middle"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=TaherAhmedAshraf&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="Ashraf" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=TaherAhmedAshraf&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="Ashraf" /></p>
 
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=saminravi99&theme=tokyonight)  
+ 
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saminravi99&theme=tokyonight&bg_color=0d1117&color=319e94&line=6fa4fc&point=FFFFFF&hide_border=true)  
