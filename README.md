@@ -12,7 +12,7 @@
 - 📫 Email contact@taherahmedashraf.com
 - ⚡ Fun fact I love to code!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taherahmedashraf&label=Profile%20views&color=E4405F&style=flat" alt="taherahmedashraf" /> </p>
-<p align="left"> <img src="https://www.codewars.com/users/Ashraf9053/badges/small" alt="taherahmedashraf" /> </p>
+<p align="middle"> <img src="https://www.codewars.com/users/Ashraf9053/badges/small" alt="taherahmedashraf" /> </p>
 ## Connect with Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/taheir.ashraf/)
