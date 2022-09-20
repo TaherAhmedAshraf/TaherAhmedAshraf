@@ -62,11 +62,11 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=TaherAhmedAshraf&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="Ashraf" /></p>
+<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=TaherAhmedAshraf&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en" alt="Ashraf" /></p>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=TaherAhmedAshraf&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="Ashraf" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=TaherAhmedAshraf&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en&layout=compact" alt="Ashraf" /></p>
 
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TaherAhmedAshraf&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="Ashraf" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TaherAhmedAshraf&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en&layout=compact" alt="Ashraf" /></p>
  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TaherAhmedAshraf&theme=tokyonight&bg_color=0d1117&color=319e94&line=6fa4fc&point=FFFFFF&hide_border=true)  
