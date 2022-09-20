@@ -67,7 +67,7 @@
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=TaherAhmedAshraf&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="Ashraf" /></p>
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TaherAhmedAshraf&theme=cobalt)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TaherAhmedAshraf&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact)  
  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TaherAhmedAshraf&theme=tokyonight&bg_color=0d1117&color=319e94&line=6fa4fc&point=FFFFFF&hide_border=true)  
