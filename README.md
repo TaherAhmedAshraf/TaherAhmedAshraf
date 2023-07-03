@@ -68,5 +68,4 @@
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TaherAhmedAshraf&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en&layout=compact" alt="Ashraf" /></p>
  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TaherAhmedAshraf&theme=tokyonight&bg_color=0d1117&color=319e94&line=6fa4fc&point=FFFFFF&hide_border=true)  
+<a href="https://app.daily.dev/ashraf9053"><img src="https://api.daily.dev/devcards/92bcb36749924b82b718007e2262e259.png?r=1e7" width="250" alt="Programmer Ashraf's Dev Card"/></a>
