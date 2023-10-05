@@ -63,9 +63,6 @@
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=TaherAhmedAshraf&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en&layout=compact" alt="Ashraf" /></p>
 
-
 <p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=TaherAhmedAshraf&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en" alt="Ashraf" /></p>
-
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TaherAhmedAshraf&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en&layout=compact" alt="Ashraf" /></p>
  
 <a href="https://app.daily.dev/ashraf9053"><img src="https://api.daily.dev/devcards/92bcb36749924b82b718007e2262e259.png?r=1e7" width="250" alt="Programmer Ashraf's Dev Card"/></a>
