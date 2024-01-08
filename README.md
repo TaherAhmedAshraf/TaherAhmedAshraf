@@ -61,7 +61,7 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TaherAhmedAshraf)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TaherAhmedAshraf&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=TaherAhmedAshraf&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en&layout=compact" alt="Ashraf" /></p>
 
