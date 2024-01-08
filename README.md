@@ -4,7 +4,7 @@
 
 ###
 
-## MERN Stack Developer 😍😍
+## Full Stack Developer 😍😍
 
 - 🔭 Admin In Command Programming Hero
 - 🌱 I’m currently learning Python
