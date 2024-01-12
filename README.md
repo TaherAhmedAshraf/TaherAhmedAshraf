@@ -6,7 +6,7 @@
 
 ## Full Stack Developer 😍😍
 
-- 🔭 Admin In Command Programming Hero
+- 🔭 Full Stack Developer (Lead) at SolarICT
 - 🌱 I’m currently learning Python
 - 💬 Ask me about JavaScript
 - 📫 Email contact@taherahmedashraf.com
