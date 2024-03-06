@@ -7,7 +7,7 @@
 ## Full Stack Developer 😍😍
 
 - 🔭 Full Stack Developer (Lead) at SolarICT
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning DevOps
 - 💬 Ask me about JavaScript
 - 📫 Email contact@taherahmedashraf.com
 - ⚡ Fun fact I love to code!
