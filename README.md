@@ -6,7 +6,7 @@
 
 ## Full Stack Developer 😍😍
 
-- 🔭 Full Stack Developer (Lead) at SolarICT
+- 🔭 Full Stack Developer 
 - 🌱 I’m currently learning DevOps
 - 💬 Ask me about JavaScript
 - 📫 Email mail@taher.one
