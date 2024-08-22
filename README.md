@@ -9,7 +9,7 @@
 - 🔭 Full Stack Developer (Lead) at SolarICT
 - 🌱 I’m currently learning DevOps
 - 💬 Ask me about JavaScript
-- 📫 Email contact@taherahmedashraf.com
+- 📫 Email mail@taher.one
 - ⚡ Fun fact I love to code!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taherahmedashraf&label=Profile%20views&color=E4405F&style=flat" alt="taherahmedashraf" /> </p>
 <p align="left"> <img src="https://www.codewars.com/users/Ashraf9053/badges/micro" alt="taherahmedashraf" /> </p>
