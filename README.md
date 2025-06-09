@@ -9,7 +9,7 @@
 - 🔭 Full Stack Developer 
 - 🌱 I’m currently learning DevOps
 - 💬 Ask me about JavaScript
-- 📫 Email mail@taher.one
+- 📫 Email hello@taher.one
 - ⚡ Fun fact I love to code!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taherahmedashraf&label=Profile%20views&color=E4405F&style=flat" alt="taherahmedashraf" /> </p>
 <p align="left"> <img src="https://www.codewars.com/users/Ashraf9053/badges/micro" alt="taherahmedashraf" /> </p>
@@ -19,7 +19,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/taheirashraf/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TaherAhmedAshraf)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taherahmedashraf/)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taheirahmedashraf@gmail.com)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@taher.one)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/531646946817998852)
 
 
