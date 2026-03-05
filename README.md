@@ -17,6 +17,7 @@ Full-stack developer from Bangladesh who enjoys building useful products, experi
 - 📫 Email: **hello@taher.one**
 - ⚡ Fun fact: I genuinely enjoy debugging
 
+<div style="display:flex">
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=taherahmedashraf&label=Profile%20views&color=E4405F&style=flat" alt="profile views"/>
 </p>
@@ -24,6 +25,7 @@ Full-stack developer from Bangladesh who enjoys building useful products, experi
 <p align="left">
 <img src="https://www.codewars.com/users/Ashraf9053/badges/micro" alt="codewars badge"/>
 </p>
+</div>
 
 ---
 
