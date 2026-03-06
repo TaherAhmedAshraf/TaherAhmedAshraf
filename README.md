@@ -14,7 +14,7 @@ Full-stack developer from Bangladesh who enjoys building useful products, experi
 - 🤖 Interested in AI tools and automation
 - 🌱 Currently learning DevOps and system design
 - 💬 Ask me about **JavaScript, web apps, and APIs**
-- 📫 Email: **hello@taher.one**
+- 📫 Email: **hello@taher.one **
 - ⚡ Fun fact: I genuinely enjoy debugging
 
 <div style="display:flex">
