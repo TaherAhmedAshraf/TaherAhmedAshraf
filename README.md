@@ -1,5 +1,5 @@
 <!-- Greeting -->
-<h2>Assalamu Alaikum, I'm Taher Ahmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2>Assalamu Alaikum, I'm Taher Ahmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
 <p>
 Full-stack developer from Bangladesh who enjoys building useful products, experimenting with new technologies, and solving real problems with code.
