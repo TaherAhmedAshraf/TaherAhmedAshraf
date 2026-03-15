@@ -89,9 +89,7 @@ Full-stack developer from Bangladesh who enjoys building useful products, experi
 
 ## 🧠 Daily.dev
 
-<a href="https://app.daily.dev/ashraf9053">
+<a href="https://app.daily.dev/taherahmed">
 <img src="https://api.daily.dev/devcards/92bcb36749924b82b718007e2262e259.png?r=1e7" width="250" alt="Taher's Dev Card"/>
-<a href="https://app.daily.dev/taherahmed"><img src="https://api.daily.dev/devcards/v2/4KNPzyNlb9GFmlUGmRnBW.png?r=szy" width="356" alt="Taher Ahmed's Dev Card"/></a>
-
 
 </a>
