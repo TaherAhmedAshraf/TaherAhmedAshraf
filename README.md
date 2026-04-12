@@ -84,7 +84,7 @@ Full-stack developer from Bangladesh who enjoys building useful products, experi
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TaherAhmedAshraf&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TaherAhmedAshraf&theme=tokyonight&hide_border=true)]([https://git.io/streak-stats](https://streak-stats.demolab.com?user=TaherAhmedAshraf&theme=tokyonight&hide_border=true))
 ---
 
 ## 🧠 Daily.dev
