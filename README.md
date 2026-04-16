@@ -37,7 +37,7 @@ I write JavaScript for a living and debug it for fun.
 ## What I'm building
 
 - **Dreabuild** — software studio building products for real problems
-- **Open-source CMS** — a developer-first headless CMS in Next.js (early ideation)
+- **E-Commerce Store Builder** — easy to setup ecommerce store builder
 - Experimenting with AI-augmented workflows and LLM tooling
 
 ---
