@@ -12,7 +12,7 @@
 
 **CEO & Founder @ Dreabuild · Full-Stack Developer · AI Enthusiast**
 
-Bangladesh 🇧🇩 · [taher.one](https://taher.one) · [hello@taher.one](mailto:hello@taher.one)
+Bangladesh 🇧🇩 · [taher.one](https://taher.one/) · [hello@taher.one](mailto:hello@taher.one)
 
 </div>
 
