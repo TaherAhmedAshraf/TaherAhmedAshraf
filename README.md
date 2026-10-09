@@ -18,7 +18,7 @@ Bangladesh 🇧🇩 · [taher.one](https://taher.one/) · [hello@taher.one](mail
 
 ---
 
-I build products end-to-end — from database schema to deployed UI. Currently running [Dreabuild](https://dreabuild.com), exploring AI-augmented development, and learning DevOps properly.
+I build products end-to-end — from database schema to deployed UI. Currently running [Dreabuild](https://dreabuild.com), exploring AI-augmented development, and learning ML properly.
 
 I write JavaScript for a living and debug it for fun.
 
